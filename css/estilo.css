@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    height: 200px;
+width: 100%;
+background-color: brown;
+justify-content: center;
+align-items:start;
+}
+.box1{
+    height: 100px;
+    width: 15%;
+    background-color: black;
+}
