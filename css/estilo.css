@@ -1,13 +1,24 @@
 .container{
     display: flex;
     height: 200px;
-width: 100%;
+ width: 100%;
 background-color: brown;
-justify-content: center;
-align-items:start;
+justify-content:center;
+align-items: baseline;
+
+
+
 }
 .box1{
     height: 100px;
     width: 15%;
-    background-color: black;
+    background-color
+    
+    
 }
+.box2{
+    height: 100px;
+    width: 15%;
+    background-color: darkgreen;
+    
+
