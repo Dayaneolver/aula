@@ -4,7 +4,7 @@
  width: 100%;
 background-color: brown;
 justify-content:center;
-align-items: baseline;
+align-items: flex-end;
 
 
 
@@ -12,7 +12,8 @@ align-items: baseline;
 .box1{
     height: 100px;
     width: 15%;
-    background-color
+    background-color: blue;
+
     
     
 }
@@ -22,3 +23,9 @@ align-items: baseline;
     background-color: darkgreen;
     
 
+.box3{
+    height: 200px;
+    width: 15%;
+    background-color:aquamarine;
+    
+}
